@@ -20,7 +20,7 @@ If a dog is spotted in the photo, it will provide an estimate of the dog's breed
 And if a human face is detected, it will provide an estimate of the most similar dog breed.
 
 The image below displays a sample output of the finished project.
-![Sample Dog Output](https://github.com/shahadl/PROJECT-2/blob/master/image/1.PNG)
+![Sample Dog Output](https://github.com/shahadl/Udacity-Data-Science-Nanodegree/blob/main/Dog-Breeds-Classifier/image/1.PNG)
 
 
 ## Description of the contents <a name="files"></a>
@@ -34,12 +34,12 @@ The model was able to successfully identify: dog pictures, the human face,and ot
 - The model successfully predicted the breed of 3 out of 4 dogs.
 
 here are some pictures i used to test the results.
-![Sample Bernese Mountain Dog Output](https://github.com/shahadl/PROJECT-2/blob/master/image/2.PNG)
+![Sample Bernese Mountain Dog Output](https://github.com/shahadl/Udacity-Data-Science-Nanodegree/blob/main/Dog-Breeds-Classifier/image/2.PNG)
 - Here's when i entered an image of a Bernese Mountain Dog
-![Sample human Output](https://github.com/shahadl/PROJECT-2/blob/master/image/3.PNG)
+![Sample human Output](https://github.com/shahadl/Udacity-Data-Science-Nanodegree/blob/main/Dog-Breeds-Classifier/image/3.PNG)
 - When I entered Jake Gyllenhaal face, it resembled him with "English springer spaniel" dog breed.
 
-![Sample "others" Output](https://github.com/shahadl/PROJECT-2/blob/master/image/4.PNG)
+![Sample "others" Output](https://github.com/shahadl/Udacity-Data-Science-Nanodegree/blob/main/Dog-Breeds-Classifier/image/4.PNG)
 - And when I entered a toy image, it did not recognize it either as a dog or as a human.
 
 In this blog post, I wrote more details about the results of this classification 
